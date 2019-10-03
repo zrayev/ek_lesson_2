@@ -1,0 +1,14 @@
+{
+    "name": "dz/ek_lesson_2",
+    "description": "Lektorium second lesson",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zrayev",
+            "email": "dmitryzrayev@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
