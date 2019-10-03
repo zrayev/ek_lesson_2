@@ -1,8 +1,6 @@
 <?php
 
-
 namespace Product;
-
 
 class SimpleProduct extends AbstractProduct implements CanShippingInterface
 {

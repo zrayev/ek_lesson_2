@@ -1,8 +1,6 @@
 <?php
 
-
 namespace Product;
-
 
 class VirtualProduct extends AbstractProduct
 {

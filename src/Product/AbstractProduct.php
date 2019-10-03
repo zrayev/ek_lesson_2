@@ -1,8 +1,6 @@
 <?php
 
-
 namespace Product;
-
 
 abstract class AbstractProduct implements ProductInterface, CostInterface
 {
